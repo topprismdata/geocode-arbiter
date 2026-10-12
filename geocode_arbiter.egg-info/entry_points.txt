@@ -1,0 +1,2 @@
+[console_scripts]
+geocode-arbiter = geocode_arbiter.cli:main

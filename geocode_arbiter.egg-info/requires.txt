@@ -1,0 +1,4 @@
+coords-core @ git+https://github.com/topprismdata/coords-core.git@v0.1.0
+
+[dev]
+pytest>=7

@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: geocode-arbiter
+Version: 0.1.0
+Summary: Dual-source geocoding arbitration per GeoGov R018/R019/R025/R031: pluggable providers, abstain path, full decision trace, never silent overwrite.
+Author: TopPrism WP04
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: coords-core @ git+https://github.com/topprismdata/coords-core.git@v0.1.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7; extra == "dev"
